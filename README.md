@@ -9,7 +9,8 @@
 <body>
     <header>
         <h1>Ultra Tri Europe</h1>
-        <p>Follow our journey through Europe's toughest ultra-triathlon!</p>
+        <p>Follow our journey through Europe's toughest ultra-triathlon! 
+            More Information Coming on this page soon!</p>
     </header>
     <section>
         <h2>About Us</h2>
@@ -19,4 +20,4 @@
         <p>Follow us on Instagram: <a href="https://instagram.com/ultratrieurope">@ultratrieurope</a></p>
     </footer>
 </body>
-</html>
+
